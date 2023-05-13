@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome:Lucas	
+-Profissão: Analista de Sistemas
+-Cidade:Jequié
+-O que faz nas horas vagas: Musculação / Ler livros
+-Feedback sobre o curso Qualidade de Software: Muito bom o curso. Eu apenas sugeriria  mais prática com casos reais e diversos.
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma simples, intuitiva e objetiva
+
+Obrigado!!!
+
+
